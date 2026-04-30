@@ -8,9 +8,9 @@ Primeiro e/ou Segundo jogo em conjunto e fazer o maior investimento para cobrir 
 Exemplo:
 Fase I
 Sexta-feira
-Napoli x Torino
-PSG x Monaco
-Celta x Real Madrid
+Leeds x Burnley favor leeds
+Pisa x Lecce favor lecce
+Girona x Maiorca favor maiorca
 
 Odd TR
 RREPT - 3,32
@@ -52,8 +52,8 @@ investimento: 30€
 Fase II
 Sábado
 Fase I +
-Cagliari x Como
-Braga x Sporting
+Hoffenheim x Estugarda (favor Hoffenheim)
+Brentford x West Ham (favor West Ham)
 Apostar em TR, int, int 0,5, virada, meia-virada, ambas marcam, 1,5 int
 investimento: 8€
 
@@ -95,8 +95,8 @@ Lucro: 223,25€
 Fase III
 Sábado
 Fase II + 
-Bilbao x Barcelona
-Juventus x Pisa
+Como x Napoles (favor Como)
+Metx x Monaco (favor Monaco)
 Apostar em TR, int, int 0,5, virada, meia-virada, ambas marcam, 1,5 int
 investimento: 6 depende do budget
 
@@ -137,8 +137,8 @@ Lucro: 496,8€
 Fase IV
 Domingo
 Fase III + 
-Villarreal x Elche
-Bolonha x Verona
+Manchester Utd x Liverpool
+B. Monc x Dortmund (favor Dortmund)
 Apostar em TR, int, int 0,5, virada, meia-virada, ambas marcam, 1,5 int
 investimento: 3€/5€ depende do budget
 
@@ -180,8 +180,30 @@ Lucro: 2708,74€
 Fase All in
 Sexta, Sabado, Domingo
 Fase IV + 
-Milan x Torino
-Lille x Nantes
+Coventry x
+Vizela x
+Guimaraes x (gilloise inves do guimaraes)
+Tottenham x
+Lille x 
+Friburgo x
+Tondela
+Arsenal x
+Marselha x
+Leverk x
+Atalanta x
+Villarreal  x
+Real Sociedad x
+Eintrach x
+Dinamo Zagreb x
+Genk x
+Brugge x
+Midtyland x
+Salzburg x
+Gyori x
+Paksi x
+Flora x
+gilloise x 
+
 Apostar em TR
 investimento: 1€
 
